@@ -1,7 +1,5 @@
 import time
-
 import schedule
-
 from utils import schedule_email
 
 
